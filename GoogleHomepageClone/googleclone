@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/class" href="googleclone.css">
+</head>
+<body>
+	
+	<div class="logo">
+	 <img alt="Google" height="92" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="272" id="logo" title="Google" style="position: relative;">
+	</div>
+	
+	<div class="searchbar" style="position: relative;">
+	 <form>
+		<input name="search" type="search" style="border: none; padding-right: 31px; margin: 0px; height: 33px; width: 100%; position: absolute; z-index: 6; left: 0px; outline: none">
+	 </form>
+	</div>
+	
+	
+  		<button class="button" id="save">Google Search</button>
+  		
+		<button class="button1" id="save">I'm feeling Lucky</button>
+  		
+    <div>
+    <ul class="header">
+    	<li><a class=Profile href="profile.asp">
+    	<img src="profile.png" alt="profile" style="width:20px;height:20px;border:0;">
+    	</a></li>
+		<li><a class=help href="help.png"> 
+    	<img src="bell.png" alt="Notifications" style="width:16px;height:16px;border:0;">
+    	</a></li>
+    	<li><a class=Index href="index.asp">
+    	<img src="index.png" alt="index" style="width:16px;height:16px;border:0;">
+    	</a></li>
+    	<li><a class=Images href="images.asp">Images</a></li>
+		<li><a class=Gmail href="www.gmail.com">Gmail</a></li>
+   		<li><a class=perd href="default.asp">Perd</a></li>
+   	</ul>
+   	</div>
+
+  	</body>
+		
+ 	 <div class="foot">
+	 	
+	</div> 		
+  <table style="width:100%">	
+
+  <tr>
+  	<td width="10"></td>
+    <td height="10"><a class=Advertising href="images.asp">Advertising</a></td>
+    <td height="10"><a class=Business href="images.asp">Business</a></td>		
+    <td height="10"><a class=About href="images.asp">About</a></td>
+    <td width="775">&nbsp</td>
+    <td height="10"><a class=Privacy href="images.asp">Privacy</a></td>
+    <td height="10"><a class=Terms href="images.asp">Terms</a></td>		
+    <td height="10"><a class=Settings href="images.asp">Settings</a></td>
+    <td width="10"></td>
+  </tr>
+  
+</table>
+	 
+</body>
+
+</html>
